@@ -6,10 +6,10 @@ int main(){
   cout<<"enter the character ";
   cin>>ch;
   if(ch>='a' && ch<='z'){
-    cout<<ch<<"is a lowercase Alphabet";
+    cout<<ch<<" is a lowercase Alphabet";
   }
   else{
-    cout<<ch<<"is a uppercase Alphabet";
+    cout<<ch<<" is a uppercase Alphabet";
   }
   return 0;
 }
