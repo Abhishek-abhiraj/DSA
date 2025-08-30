@@ -9,6 +9,7 @@ int main(){
     cout<<ch<<" is a lowercase Alphabet";
   }
   else{
+  
     cout<<ch<<" is a uppercase Alphabet";
   }
   return 0;
